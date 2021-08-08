@@ -1,7 +1,7 @@
 
 ## Overview
 
-FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
+A simple android chat application built using android studios with gradle framework and google's firebase as the database. The messages are pushed to the firebase and it sends a notification to the destination user.
 
 ## Setup
 
